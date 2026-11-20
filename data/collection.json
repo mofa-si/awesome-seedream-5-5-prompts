@@ -1,0 +1,611 @@
+{
+  "repo": "awesome-seedream-5-5-prompts",
+  "project": "chatimg",
+  "kind": "image",
+  "title": "Awesome Seedream 5.5 Prompts",
+  "titleZh": "Seedream 5.5 提示词与作品精选",
+  "description": "A curated collection of ByteDance Seedream 5.5 images shared on X: portraits, film stills, sci-fi and product design, precise multi-turn edits, and same-prompt comparisons against GPT Image, Nano Banana, Midjourney and more. Every entry credits its creator and links the original post, with verbatim public prompts you can open on ChatImg in one click.",
+  "descriptionZh": "收集 X 上的字节 Seedream 5.5 作品：人像、电影感剧照、科幻与产品设计、多轮精确改图，以及和 GPT Image、Nano Banana、Midjourney 等模型的同提示词对比。每条署名原作者、链接原帖，附创作者公开的原文提示词，可一键在 ChatImg 打开同款。",
+  "model": "Seedream 5.5",
+  "collectedOn": "2026-11-20",
+  "publicationCutoffUtc": "2026-11-09T00:00:00Z",
+  "topics": [
+    "seedream",
+    "seedream-5-5",
+    "bytedance",
+    "doubao",
+    "ai-image",
+    "image-generation",
+    "text-to-image",
+    "image-editing",
+    "ai-art",
+    "prompt-engineering",
+    "image-prompts",
+    "chatimg"
+  ],
+  "site": {
+    "name": "ChatImg",
+    "host": "chatimg.ai",
+    "landingUrl": "https://chatimg.ai/image?model=seedream-5.5",
+    "landingUrlZh": "https://chatimg.ai/zh/image?model=seedream-5.5",
+    "cta": "Try Seedream 5.5 on ChatImg",
+    "ctaZh": "在 ChatImg 直接用 Seedream 5.5 出图",
+    "promptUrl": "https://chatimg.ai/image?model=seedream-5.5",
+    "promptParam": "q"
+  },
+  "mediaHosts": [
+    "bibigpt-apps.chatvid.ai"
+  ],
+  "categories": [
+    {
+      "id": "comparison",
+      "en": "Same-prompt model comparisons",
+      "zh": "同提示词模型对比"
+    },
+    {
+      "id": "portrait",
+      "en": "Portraits",
+      "zh": "人像"
+    },
+    {
+      "id": "scenes",
+      "en": "Film stills & scenes",
+      "zh": "电影感剧照与场景"
+    },
+    {
+      "id": "illustration",
+      "en": "Illustration & characters",
+      "zh": "插画与角色"
+    },
+    {
+      "id": "product",
+      "en": "Product & design",
+      "zh": "产品与设计"
+    },
+    {
+      "id": "remix",
+      "en": "Precise edits",
+      "zh": "精确改图"
+    }
+  ],
+  "entries": [
+    {
+      "id": "rowrowri77-615112",
+      "title": "An old painter at his easel in a sunlit attic studio",
+      "titleZh": "阳光阁楼画室里作画的老画家",
+      "category": "scenes",
+      "author": {
+        "name": "Row",
+        "handle": "rowrowri77",
+        "url": "https://x.com/rowrowri77"
+      },
+      "sourceUrl": "https://x.com/rowrowri77/status/2123592918015615112",
+      "publishedAt": "2026-11-20T01:43:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123592918015615112-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123592918015615112-1.webp"
+      ]
+    },
+    {
+      "id": "kakiponzux-799662",
+      "title": "Precise edits measured for drift: Ideogram 4.6 vs Seedream 5.5",
+      "titleZh": "精确改图的画面漂移实测：Ideogram 4.6 对比 Seedream 5.5",
+      "category": "comparison",
+      "author": {
+        "name": "Kakiponzu AI Lab",
+        "handle": "KakiponzuX",
+        "url": "https://x.com/KakiponzuX"
+      },
+      "sourceUrl": "https://x.com/KakiponzuX/status/2123582607501799662",
+      "publishedAt": "2026-11-20T01:02:02Z",
+      "prompt": "A: \"Change only the colour of her cream knitted sweater to deep burgundy red. Keep everything else exactly the same: the same woman, same face, same hair, same pose, same room and same lighting.\"\nB: \"Replace only the ceramic mug on the books on the left with a small clear glass vase holding a single red rose. Keep everything else exactly the same: the same woman, same face, same hair, same pose, same sweater, same room and same lighting.\"",
+      "promptSourceUrl": "https://x.com/KakiponzuX/status/2123582607501799662",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123582607501799662-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123582607501799662-1.webp"
+      ],
+      "note": "Outside-edit drift, lower is better. Recolour (large area): Ideogram 4.6 1.75, Seedream 5.5 1.28. Swap a small object: Ideogram 4.6 1.29, Seedream 5.5 1.66."
+    },
+    {
+      "id": "low-sub-ai-428284",
+      "title": "A long-haired portrait: GPT Image 2.6 vs Seedream 5.5 vs MOSS Image vs Midjourney V8.2",
+      "titleZh": "黑长发人像：GPT Image 2.6、Seedream 5.5、MOSS Image、Midjourney V8.2 对比",
+      "category": "comparison",
+      "author": {
+        "name": "ろー",
+        "handle": "low_sub_AI",
+        "url": "https://x.com/low_sub_AI"
+      },
+      "sourceUrl": "https://x.com/low_sub_AI/status/2123528239570428284",
+      "publishedAt": "2026-11-19T21:26:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123528239570428284-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123528239570428284-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123528239570428284-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123528239570428284-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123528239570428284-4.webp"
+      ]
+    },
+    {
+      "id": "cyberprix-x-222992",
+      "title": "A campfire scene with a woman and a dog: Seedream 5.5 Edit vs 5.0 Pro, GPT 2.5 and Grok",
+      "titleZh": "篝火旁的女子和狗：Seedream 5.5 Edit 对比 5.0 Pro、GPT 2.5、Grok",
+      "category": "comparison",
+      "author": {
+        "name": "cyberprix",
+        "handle": "cyberprix_x",
+        "url": "https://x.com/cyberprix_x"
+      },
+      "sourceUrl": "https://x.com/cyberprix_x/status/2123481407834222992",
+      "publishedAt": "2026-11-19T18:19:54Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123481407834222992-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123481407834222992-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123481407834222992-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123481407834222992-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123481407834222992-4.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123481407834222992-5.webp"
+      ],
+      "note": "Author's summary (translated from Korean): Seedream gives the most finished-looking images, GPT 2.5 follows the scene most reliably."
+    },
+    {
+      "id": "shinebynous-717435",
+      "title": "A festive jellyfish dot-art caricature across 12 image models",
+      "titleZh": "节日水母点彩漫画：12 个图像模型同一提示词",
+      "category": "comparison",
+      "author": {
+        "name": "Shine by Nous ✨",
+        "handle": "Shinebynous",
+        "url": "https://x.com/Shinebynous"
+      },
+      "sourceUrl": "https://x.com/Shinebynous/status/2123418518762717435",
+      "publishedAt": "2026-11-19T14:10:00Z",
+      "prompt": "Spectacles festive jellyfish dot-art caricature",
+      "promptSourceUrl": "https://x.com/Shinebynous/status/2123418518762717435",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-4.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-5.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-6.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-7.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-8.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-9.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-10.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-11.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-12.webp"
+      ]
+    },
+    {
+      "id": "xmarxm81831-852463",
+      "title": "Close-up skin detail on a laughing woman with a cocktail",
+      "titleZh": "举着鸡尾酒大笑的女子，皮肤细节特写",
+      "category": "portrait",
+      "author": {
+        "name": "Ai Spectrum",
+        "handle": "XmarxM81831",
+        "url": "https://x.com/XmarxM81831"
+      },
+      "sourceUrl": "https://x.com/XmarxM81831/status/2123383010183852463",
+      "publishedAt": "2026-11-19T11:48:54Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123383010183852463-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123383010183852463-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123383010183852463-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123383010183852463-3.webp"
+      ]
+    },
+    {
+      "id": "lustre-blade-333194",
+      "title": "A snowy satellite dish seen from a hangar door",
+      "titleZh": "从机库门口望向雪地里的卫星天线",
+      "category": "scenes",
+      "author": {
+        "name": "光锋",
+        "handle": "Lustre_Blade",
+        "url": "https://x.com/Lustre_Blade"
+      },
+      "sourceUrl": "https://x.com/Lustre_Blade/status/2123284631529333194",
+      "publishedAt": "2026-11-19T05:17:59Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123284631529333194-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123284631529333194-1.webp"
+      ]
+    },
+    {
+      "id": "panoramajasmin-467747",
+      "title": "Ten original anime characters",
+      "titleZh": "十个原创动漫角色",
+      "category": "illustration",
+      "author": {
+        "name": "Thamer Ossra",
+        "handle": "PanoramaJasmin",
+        "url": "https://x.com/PanoramaJasmin"
+      },
+      "sourceUrl": "https://x.com/PanoramaJasmin/status/2123121689030467747",
+      "publishedAt": "2026-11-18T18:30:31Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-4.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-5.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-6.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-7.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-8.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-9.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-10.webp"
+      ]
+    },
+    {
+      "id": "imagegardener-564595",
+      "title": "A kiss through two helmets above Saturn: three Seedream 5.5 takes and one 5.0 Pro",
+      "titleZh": "土星上空隔着头盔的吻：三张 Seedream 5.5 与一张 5.0 Pro",
+      "category": "scenes",
+      "author": {
+        "name": "The Image Gardener",
+        "handle": "ImageGardener",
+        "url": "https://x.com/ImageGardener"
+      },
+      "sourceUrl": "https://x.com/ImageGardener/status/2123095034853564595",
+      "publishedAt": "2026-11-18T16:44:36Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123095034853564595-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123095034853564595-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123095034853564595-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123095034853564595-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123095034853564595-4.webp"
+      ],
+      "note": "The author says the prompt was written with ChatGPT and posted in full at a link in the post."
+    },
+    {
+      "id": "johnagi168-348175",
+      "title": "A couple embracing on a tropical beach at golden hour",
+      "titleZh": "金色黄昏的热带海滩上相拥的情侣",
+      "category": "portrait",
+      "author": {
+        "name": "John",
+        "handle": "johnAGI168",
+        "url": "https://x.com/johnAGI168"
+      },
+      "sourceUrl": "https://x.com/johnAGI168/status/2123084566806348175",
+      "publishedAt": "2026-11-18T16:03:00Z",
+      "prompt": "A cinematic romantic still photograph captured on a 35mm motion picture camera — a slightly low-angle medium three-quarter shot of an extraordinarily attractive, movie-star-caliber young East Asian couple embracing on a tropical beach at golden-hour sunset, capturing the joyful moment as the man effortlessly lifts the woman high into the air against a pastel pink and gold twilight sky.\n\nThe strikingly handsome, tall, broad-shouldered man in his mid-20s possesses sculpted aristocratic bone structure, a sharp chiseled jawline, a high straight nose bridge, deep expressive eyes, and effortlessly styled tousled jet-black hair. Wearing an unbuttoned relaxed black linen shirt with rolled sleeves, his strong arms wrap securely around her thighs to lift her upward as he gazes up at her with a warm, captivating smile. The breathtakingly gorgeous, slender woman features an exquisite delicate side profile, graceful swan neck, luminous rosy-flushed porcelain skin, and a sculpted bare back. Wearing a lightweight white backless spaghetti-strap sundress tied with a large silk ribbon bow at her lower back, she rests her hands on his shoulders and looks down into his eyes with an enchanting, shy smile. Captured mid-motion, her lustrous dark chestnut hair and trailing white dress ribbons sweep dramatically through the sea breeze.\n\nThe setting is a serene tropical coastline with soft-focus palm tree silhouettes along the shore beneath a dreamy sky blending from twilight blue into warm pink and glowing sunset gold. Strong golden backlighting wraps her flying hair, bare back, and sheer flowing fabric in radiant warm rim light, while floating sun-kissed bokeh particles shimmer in the hazy sea air.\n\nCaptured with a wide-latitude cinema package and a 50mm vintage anamorphic lens at f/2.0, producing creamy oval bokeh, soft organic halation, and gentle lens flare. Flattering, fine, even real human skin with warm subsurface scattering, strand-by-strand windblown hair physics, natural linen and chiffon textures, and fine 35mm theatrical film grain — photographed on real film, never CGI, never plastic, never 3D render.",
+      "promptSourceUrl": "https://x.com/johnAGI168/status/2123084566806348175",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123084566806348175-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123084566806348175-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123084566806348175-2.webp"
+      ]
+    },
+    {
+      "id": "iancu-ai-732626",
+      "title": "One poster across four image models and Seedance 2.5",
+      "titleZh": "同一张海报在四个图像模型和 Seedance 2.5 上的表现",
+      "category": "comparison",
+      "author": {
+        "name": "Mr.Iancu",
+        "handle": "Iancu_ai",
+        "url": "https://x.com/Iancu_ai"
+      },
+      "sourceUrl": "https://x.com/Iancu_ai/status/2123060504222732626",
+      "publishedAt": "2026-11-18T14:27:23Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123060504222732626-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123060504222732626-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123060504222732626-2.webp"
+      ],
+      "note": "Same scene and two reference sheets on Kling Image 4.0, MiniMax H3, GPT Image 2.6 and Seedream 5.5, plus a 4-second Seedance 2.5 shot."
+    },
+    {
+      "id": "bluepilotsuit-390398",
+      "title": "An anime fighter pilot on a jet",
+      "titleZh": "战机上的动漫女飞行员",
+      "category": "illustration",
+      "author": {
+        "name": "Blue Pilot (Blue Pilot Suit Corporation)",
+        "handle": "BluePilotSuit",
+        "url": "https://x.com/BluePilotSuit"
+      },
+      "sourceUrl": "https://x.com/BluePilotSuit/status/2123058106452390398",
+      "publishedAt": "2026-11-18T14:17:51Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123058106452390398-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123058106452390398-1.webp"
+      ]
+    },
+    {
+      "id": "nanyuan0412-894521",
+      "title": "Where Seedream 5.5 struggles with POV shots, side by side with other models",
+      "titleZh": "Seedream 5.5 的主观镜头短板，与其他模型并排对比",
+      "category": "comparison",
+      "author": {
+        "name": "南鸢 nuyoah",
+        "handle": "nanyuan0412",
+        "url": "https://x.com/nanyuan0412"
+      },
+      "sourceUrl": "https://x.com/nanyuan0412/status/2122884836641894521",
+      "publishedAt": "2026-11-18T02:49:21Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122884836641894521-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122884836641894521-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122884836641894521-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122884836641894521-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122884836641894521-4.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122884836641894521-5.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122884836641894521-6.webp"
+      ],
+      "note": "Tip from the author: Seedream 5.5 often misreads \"POV\" or \"first person\", so describe the physical evidence of the camera position in the prompt instead."
+    },
+    {
+      "id": "victorinfocus-430018",
+      "title": "Faded 1950s color-negative film stills of a masked woman",
+      "titleZh": "褪色 1950 年代彩色负片风格的面具女子剧照",
+      "category": "scenes",
+      "author": {
+        "name": "V",
+        "handle": "VictorInFocus",
+        "url": "https://x.com/VictorInFocus"
+      },
+      "sourceUrl": "https://x.com/VictorInFocus/status/2122867276139430018",
+      "publishedAt": "2026-11-18T01:39:34Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122867276139430018-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122867276139430018-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122867276139430018-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122867276139430018-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122867276139430018-4.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122867276139430018-5.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122867276139430018-6.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122867276139430018-7.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122867276139430018-8.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122867276139430018-9.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122867276139430018-10.webp"
+      ],
+      "note": "Made in CapCut studio. The author asked for a faded 1950s color negative pushed two stops."
+    },
+    {
+      "id": "saniaspeaks-425682",
+      "title": "A woman by a rusty pickup truck: MiniMax H3 Image vs Seedream 5.5 vs GPT Image 2.6",
+      "titleZh": "锈迹皮卡旁的女孩：MiniMax H3 Image、Seedream 5.5、GPT Image 2.6 对比",
+      "category": "comparison",
+      "author": {
+        "name": "𝗦𝗮𝗻𝗶𝗮",
+        "handle": "saniaspeaks_",
+        "url": "https://x.com/saniaspeaks_"
+      },
+      "sourceUrl": "https://x.com/saniaspeaks_/status/2122667263375425682",
+      "publishedAt": "2026-11-17T12:24:47Z",
+      "prompt": "Create an ultra-realistic 8K editorial fashion photograph of a young European woman standing casually beside an old, weathered vintage pickup truck on a deserted countryside dirt road.\n\nCharacter appearance: A young European woman with pale natural skin, delicate facial features, subtle freckles, deep brown eyes, and a short messy black bob haircut with soft, uneven bangs. Her expression is calm, slightly serious, effortless and natural.\n\nOutfit: An oversized faded blue denim jacket with worn fabric and realistic stitching, a black vintage graphic band T-shirt underneath, layered black necklaces, a black belt, and loose dark charcoal jeans. Both hands casually tucked into the jacket pockets.\n\nPose and composition: She is leaning her back and hip against the side of an old rusty light-blue pickup truck, standing with one leg slightly bent. Her body is angled naturally while her face looks directly toward the camera. Capture her from approximately mid-thigh upward, with the truck occupying the left side of the frame.\n\nEnvironment: A quiet rural countryside setting with an old dirt road extending into the distance, dry grass, scattered trees, and an overcast pale grey sky. The pickup truck has faded blue paint, visible rust patches, dusty windows, and authentic vintage wear.\n\nPhotography style: Authentic 35mm analog film photography, early 2000s European indie-film aesthetic, muted earthy colors, soft natural overcast daylight, subtle film grain, realistic skin texture, natural imperfections, soft shadows, documentary-style composition, slightly imperfect candid framing.\n\nImage quality: Extremely photorealistic, 8K ultra-high resolution, finely detailed facial features, individual hair strands, realistic denim texture, authentic rust and weathering, professional photography, sharp subject focus, natural depth of field.\n\nImportant: Preserve realistic human anatomy and natural proportions. No beauty filters, no artificial skin smoothing, no exaggerated makeup, no illustration, no CGI, no text overlays, no watermark. Vertical 3:4 portrait composition.",
+      "promptSourceUrl": "https://x.com/saniaspeaks_/status/2122667263375425682",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122667263375425682-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122667263375425682-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122667263375425682-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122667263375425682-3.webp"
+      ]
+    },
+    {
+      "id": "berryxia-186274",
+      "title": "A soft close-up portrait among leaves",
+      "titleZh": "树叶间的柔光近景人像",
+      "category": "portrait",
+      "author": {
+        "name": "Berryxia.AI",
+        "handle": "berryxia",
+        "url": "https://x.com/berryxia"
+      },
+      "sourceUrl": "https://x.com/berryxia/status/2122587170280186274",
+      "publishedAt": "2026-11-17T07:06:31Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122587170280186274-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122587170280186274-1.webp"
+      ],
+      "note": "Still frame from the author's Seedream 5.5 + Seedance 2.5 Flash workflow."
+    },
+    {
+      "id": "wolfriccardo-328785",
+      "title": "90s vibe film stills from short text-to-image prompts",
+      "titleZh": "90 年代氛围电影剧照，短提示词直出",
+      "category": "scenes",
+      "author": {
+        "name": "Riccardo Wolf",
+        "handle": "WolfRiccardo",
+        "url": "https://x.com/WolfRiccardo"
+      },
+      "sourceUrl": "https://x.com/WolfRiccardo/status/2122356766541328785",
+      "publishedAt": "2026-11-16T15:50:59Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122356766541328785-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122356766541328785-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122356766541328785-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122356766541328785-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122356766541328785-4.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122356766541328785-5.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122356766541328785-6.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122356766541328785-7.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122356766541328785-8.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122356766541328785-9.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122356766541328785-10.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2122356766541328785-11.webp"
+      ],
+      "note": "Made with Seedream 5.5 on Krea from short text-to-image prompts."
+    },
+    {
+      "id": "mrdavids1-302082",
+      "title": "Sleek sci-fi design: an armored agent, a buggy, a mech suit and a rifle",
+      "titleZh": "硬朗科幻设计：特工、越野车、机甲和步枪",
+      "category": "product",
+      "author": {
+        "name": "Travis Davids",
+        "handle": "MrDavids1",
+        "url": "https://x.com/MrDavids1"
+      },
+      "sourceUrl": "https://x.com/MrDavids1/status/2121790244454302082",
+      "publishedAt": "2026-11-15T02:19:49Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2121790244454302082-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2121790244454302082-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2121790244454302082-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2121790244454302082-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2121790244454302082-4.webp"
+      ],
+      "note": "The author, a hard-surface CAD designer, uses Seedream 5.5 for sci-fi clothing, vehicles and weapons."
+    },
+    {
+      "id": "rovvmut-448316",
+      "title": "A moody hoodie portrait: Midjourney V7 vs Seedream 5.5 vs MiniMax H3 Image",
+      "titleZh": "连帽衫人像：Midjourney V7、Seedream 5.5、MiniMax H3 Image 对比",
+      "category": "comparison",
+      "author": {
+        "name": "Heisenberg",
+        "handle": "rovvmut_",
+        "url": "https://x.com/rovvmut_"
+      },
+      "sourceUrl": "https://x.com/rovvmut_/status/2121271987901448316",
+      "publishedAt": "2026-11-13T16:00:27Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2121271987901448316-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2121271987901448316-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2121271987901448316-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2121271987901448316-3.webp"
+      ]
+    },
+    {
+      "id": "nanyuan0412-792524",
+      "title": "The same braided-hair portrait across Seedream 5.0 Lite, 5.0 Pro, 5.5 and Image 2.0",
+      "titleZh": "同一个双麻花辫人像：Seedream 5.0 Lite、5.0 Pro、5.5 与 Image 2.0 盲测",
+      "category": "comparison",
+      "author": {
+        "name": "南鸢 nuyoah",
+        "handle": "nanyuan0412",
+        "url": "https://x.com/nanyuan0412"
+      },
+      "sourceUrl": "https://x.com/nanyuan0412/status/2120353980278792524",
+      "publishedAt": "2026-11-11T03:12:37Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2120353980278792524-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2120353980278792524-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2120353980278792524-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2120353980278792524-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2120353980278792524-4.webp"
+      ],
+      "note": "Images in order: Seedream 5.0 Lite, 5.0 Pro, 5.5, Image 2.0. The author found 5.5 the most camera-native, with real highlight and fabric detail."
+    },
+    {
+      "id": "emirailab-230500",
+      "title": "A desert archer: Seedream 5.5 vs GPT Image 2.6 vs Nano Banana 2.1",
+      "titleZh": "沙漠弓箭手：Seedream 5.5、GPT Image 2.6、Nano Banana 2.1 对比",
+      "category": "comparison",
+      "author": {
+        "name": "Emir.",
+        "handle": "EmirAILab",
+        "url": "https://x.com/EmirAILab"
+      },
+      "sourceUrl": "https://x.com/EmirAILab/status/2120163581673230500",
+      "publishedAt": "2026-11-10T14:36:03Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2120163581673230500-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2120163581673230500-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2120163581673230500-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2120163581673230500-3.webp"
+      ]
+    },
+    {
+      "id": "eej-ooxo-716281",
+      "title": "A character sheet: Seedream 5.5 vs Seedream 5.0 Pro",
+      "titleZh": "角色设定图：Seedream 5.5 对比 Seedream 5.0 Pro",
+      "category": "comparison",
+      "author": {
+        "name": "OOXO",
+        "handle": "EEJ_OOXO",
+        "url": "https://x.com/EEJ_OOXO"
+      },
+      "sourceUrl": "https://x.com/EEJ_OOXO/status/2119780326117716281",
+      "publishedAt": "2026-11-09T13:13:08Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2119780326117716281-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2119780326117716281-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2119780326117716281-2.webp"
+      ],
+      "note": "Seedream 5.5 downloads as PNG (5.2 MB) where 5.0 Pro gave JPEG (584 KB), and keeps the two panels more consistent (per the author, translated from Korean)."
+    },
+    {
+      "id": "samra-ai-498798",
+      "title": "One precise edit: a seaside road with the people removed and better weather",
+      "titleZh": "精确改图：海边公路去掉行人、换成好天气",
+      "category": "remix",
+      "author": {
+        "name": "SamraAi",
+        "handle": "samra_Ai",
+        "url": "https://x.com/samra_Ai"
+      },
+      "sourceUrl": "https://x.com/samra_Ai/status/2119760260311498798",
+      "publishedAt": "2026-11-09T11:53:23Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2119760260311498798-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2119760260311498798-1.webp"
+      ]
+    },
+    {
+      "id": "hwypanda-420841",
+      "title": "A streetwear flat-lay catalog: tee, bag, jeans, cap and sneakers",
+      "titleZh": "潮牌平铺目录图：T 恤、包、牛仔裤、帽子和球鞋",
+      "category": "product",
+      "author": {
+        "name": "AHSAN BILAL",
+        "handle": "Hwypanda",
+        "url": "https://x.com/Hwypanda"
+      },
+      "sourceUrl": "https://x.com/Hwypanda/status/2119754081816420841",
+      "publishedAt": "2026-11-09T11:28:50Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2119754081816420841-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2119754081816420841-1.webp"
+      ]
+    }
+  ]
+}
