@@ -1,8 +1,8 @@
 # Ten original anime characters
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-card.webp)](https://chatimg.ai/image?model=seedream-5.5&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=panoramajasmin-467747)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123121689030467747-card.webp)](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=panoramajasmin-467747#illustration)
 
-**[▶ Try Seedream 5.5 on ChatImg](https://chatimg.ai/image?model=seedream-5.5&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=panoramajasmin-467747)** · [Source post](https://x.com/PanoramaJasmin/status/2123121689030467747)
+**[▶ Try Seedream 5.5 on ChatImg](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=panoramajasmin-467747#illustration)** · [Source post](https://x.com/PanoramaJasmin/status/2123121689030467747)
 
 - Author / credit: Thamer Ossra (@PanoramaJasmin)
 - Prompt status: `not_published_in_reviewed_sources`
@@ -39,4 +39,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Seedream 5.5 work on ChatImg →](https://chatimg.ai/image?model=seedream-5.5&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts)
+[More Seedream 5.5 work on ChatImg →](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts)

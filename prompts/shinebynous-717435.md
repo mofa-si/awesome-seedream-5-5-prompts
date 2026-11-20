@@ -1,6 +1,6 @@
 # A festive jellyfish dot-art caricature across 12 image models
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-card.webp)](https://chatimg.ai/image?model=seedream-5.5&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=shinebynous-717435)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123418518762717435-card.webp)](https://chatimg.ai/prompts/seedream-5-5/shinebynous-717435?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=shinebynous-717435)
 
 **[▶ Use this prompt on ChatImg](https://chatimg.ai/image?model=seedream-5.5&q=Spectacles+festive+jellyfish+dot-art+caricature&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=shinebynous-717435)** · [Source post](https://x.com/Shinebynous/status/2123418518762717435)
 
@@ -47,4 +47,4 @@ Prompt source: https://x.com/Shinebynous/status/2123418518762717435
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Seedream 5.5 work on ChatImg →](https://chatimg.ai/image?model=seedream-5.5&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts)
+[More Seedream 5.5 work on ChatImg →](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts)

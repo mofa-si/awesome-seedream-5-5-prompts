@@ -31,7 +31,8 @@
     "cta": "Try Seedream 5.5 on ChatImg",
     "ctaZh": "在 ChatImg 直接用 Seedream 5.5 出图",
     "promptUrl": "https://chatimg.ai/image?model=seedream-5.5",
-    "promptParam": "q"
+    "promptParam": "q",
+    "pagesUrl": "https://chatimg.ai/prompts/seedream-5-5"
   },
   "mediaHosts": [
     "bibigpt-apps.chatvid.ai"

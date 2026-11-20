@@ -1,8 +1,8 @@
 # A desert archer: Seedream 5.5 vs GPT Image 2.6 vs Nano Banana 2.1
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2120163581673230500-card.webp)](https://chatimg.ai/image?model=seedream-5.5&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=emirailab-230500)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2120163581673230500-card.webp)](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=emirailab-230500#comparison)
 
-**[▶ Try Seedream 5.5 on ChatImg](https://chatimg.ai/image?model=seedream-5.5&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=emirailab-230500)** · [Source post](https://x.com/EmirAILab/status/2120163581673230500)
+**[▶ Try Seedream 5.5 on ChatImg](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=emirailab-230500#comparison)** · [Source post](https://x.com/EmirAILab/status/2120163581673230500)
 
 - Author / credit: Emir. (@EmirAILab)
 - Prompt status: `not_published_in_reviewed_sources`
@@ -25,4 +25,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Seedream 5.5 work on ChatImg →](https://chatimg.ai/image?model=seedream-5.5&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts)
+[More Seedream 5.5 work on ChatImg →](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts)

@@ -1,8 +1,8 @@
 # One poster across four image models and Seedance 2.5
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123060504222732626-card.webp)](https://chatimg.ai/image?model=seedream-5.5&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=iancu-ai-732626)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123060504222732626-card.webp)](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=iancu-ai-732626#comparison)
 
-**[▶ Try Seedream 5.5 on ChatImg](https://chatimg.ai/image?model=seedream-5.5&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=iancu-ai-732626)** · [Source post](https://x.com/Iancu_ai/status/2123060504222732626)
+**[▶ Try Seedream 5.5 on ChatImg](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=iancu-ai-732626#comparison)** · [Source post](https://x.com/Iancu_ai/status/2123060504222732626)
 
 - Author / credit: Mr.Iancu (@Iancu_ai)
 - Prompt status: `not_published_in_reviewed_sources`
@@ -25,4 +25,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Seedream 5.5 work on ChatImg →](https://chatimg.ai/image?model=seedream-5.5&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts)
+[More Seedream 5.5 work on ChatImg →](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts)
