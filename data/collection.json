@@ -7,7 +7,7 @@
   "description": "A curated collection of ByteDance Seedream 5.5 images shared on X: portraits, film stills, sci-fi and product design, precise multi-turn edits, and same-prompt comparisons against GPT Image, Nano Banana, Midjourney and more. Every entry credits its creator and links the original post, with verbatim public prompts you can open on ChatImg in one click.",
   "descriptionZh": "收集 X 上的字节 Seedream 5.5 作品：人像、电影感剧照、科幻与产品设计、多轮精确改图，以及和 GPT Image、Nano Banana、Midjourney 等模型的同提示词对比。每条署名原作者、链接原帖，附创作者公开的原文提示词，可一键在 ChatImg 打开同款。",
   "model": "Seedream 5.5",
-  "collectedOn": "2026-11-20",
+  "collectedOn": "2026-11-21",
   "publicationCutoffUtc": "2026-11-09T00:00:00Z",
   "topics": [
     "seedream",
@@ -70,6 +70,48 @@
     }
   ],
   "entries": [
+    {
+      "id": "aiwithkhan-542587",
+      "title": "A light-status logic puzzle rendered as a dashboard: MiniMax H3 Image vs Seedream 5.5",
+      "titleZh": "把灯光状态逻辑题画成仪表盘：MiniMax H3 Image 对比 Seedream 5.5",
+      "category": "comparison",
+      "author": {
+        "name": "Smiling Khan",
+        "handle": "AIwithkhan",
+        "url": "https://x.com/AIwithkhan"
+      },
+      "sourceUrl": "https://x.com/AIwithkhan/status/2123811902283542587",
+      "publishedAt": "2026-11-20T16:13:10Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123811902283542587-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123811902283542587-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123811902283542587-2.webp"
+      ],
+      "note": "Left: MiniMax H3 Image (4K), right: Seedream 5.5 (2K). The author found Seedream's dashboard polished but its conclusion wrong."
+    },
+    {
+      "id": "anjmaxx-523931",
+      "title": "A couple at a night-time convenience store table: Nano Banana Pro vs Seedream 5.5 vs Soul Cinema 2.0",
+      "titleZh": "夜晚便利店门口的一对情侣：Nano Banana Pro、Seedream 5.5、Soul Cinema 2.0 对比",
+      "category": "comparison",
+      "author": {
+        "name": "anj",
+        "handle": "anjmaxx",
+        "url": "https://x.com/anjmaxx"
+      },
+      "sourceUrl": "https://x.com/anjmaxx/status/2123691253896523931",
+      "publishedAt": "2026-11-20T08:13:45Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123691253896523931-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123691253896523931-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123691253896523931-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2123691253896523931-3.webp"
+      ]
+    },
     {
       "id": "rowrowri77-615112",
       "title": "An old painter at his easel in a sunlit attic studio",
