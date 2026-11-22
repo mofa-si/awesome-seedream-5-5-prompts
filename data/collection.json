@@ -7,7 +7,7 @@
   "description": "A curated collection of ByteDance Seedream 5.5 images shared on X: portraits, film stills, sci-fi and product design, precise multi-turn edits, and same-prompt comparisons against GPT Image, Nano Banana, Midjourney and more. Every entry credits its creator and links the original post, with verbatim public prompts you can open on ChatImg in one click.",
   "descriptionZh": "收集 X 上的字节 Seedream 5.5 作品：人像、电影感剧照、科幻与产品设计、多轮精确改图，以及和 GPT Image、Nano Banana、Midjourney 等模型的同提示词对比。每条署名原作者、链接原帖，附创作者公开的原文提示词，可一键在 ChatImg 打开同款。",
   "model": "Seedream 5.5",
-  "collectedOn": "2026-11-21",
+  "collectedOn": "2026-11-22",
   "publicationCutoffUtc": "2026-11-09T00:00:00Z",
   "topics": [
     "seedream",
@@ -67,9 +67,93 @@
       "id": "remix",
       "en": "Precise edits",
       "zh": "精确改图"
+    },
+    {
+      "id": "poster",
+      "en": "Posters & covers",
+      "zh": "海报与封面"
     }
   ],
   "entries": [
+    {
+      "id": "framezeroai-279997",
+      "title": "A man in a subway tunnel holding a photograph of tomorrow",
+      "titleZh": "地铁隧道里，男人手里拿着一张「明天」的照片",
+      "category": "scenes",
+      "author": {
+        "name": "Frame Zero 🎬 | AI Films",
+        "handle": "FramezeroAI",
+        "url": "https://x.com/FramezeroAI"
+      },
+      "sourceUrl": "https://x.com/FramezeroAI/status/2124155148243279997",
+      "publishedAt": "2026-11-21T14:57:06Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124155148243279997-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124155148243279997-1.webp"
+      ]
+    },
+    {
+      "id": "cyberprix-x-560392",
+      "title": "One character edited into three scenes through the Seedream 5.5 edit API",
+      "titleZh": "用 Seedream 5.5 改图 API 把同一个角色放进三个场景",
+      "category": "remix",
+      "author": {
+        "name": "cyberprix",
+        "handle": "cyberprix_x",
+        "url": "https://x.com/cyberprix_x"
+      },
+      "sourceUrl": "https://x.com/cyberprix_x/status/2124126250348560392",
+      "publishedAt": "2026-11-21T13:02:17Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124126250348560392-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124126250348560392-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124126250348560392-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124126250348560392-3.webp"
+      ]
+    },
+    {
+      "id": "bluepolaris1990-843043",
+      "title": "A dark fantasy book cover titled \"临界\" (Threshold)",
+      "titleZh": "暗黑奇幻风书封《临界》",
+      "category": "poster",
+      "author": {
+        "name": "刘志林",
+        "handle": "BluePolaris1990",
+        "url": "https://x.com/BluePolaris1990"
+      },
+      "sourceUrl": "https://x.com/BluePolaris1990/status/2124099523970843043",
+      "publishedAt": "2026-11-21T11:16:05Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124099523970843043-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124099523970843043-1.webp"
+      ]
+    },
+    {
+      "id": "reikosikibu-859124",
+      "title": "A kimono woman in an illustrated seaside scene: Nano Banana Pro vs MiniMax H3 vs GPT Image 2.6 vs Seedream 5.5",
+      "titleZh": "和服女子的海边插画：Nano Banana Pro、MiniMax H3、GPT Image 2.6、Seedream 5.5 对比",
+      "category": "comparison",
+      "author": {
+        "name": "Naomi_Kurose",
+        "handle": "reikosikibu",
+        "url": "https://x.com/reikosikibu"
+      },
+      "sourceUrl": "https://x.com/reikosikibu/status/2124078479490859124",
+      "publishedAt": "2026-11-21T09:52:27Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124078479490859124-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124078479490859124-1.webp"
+      ],
+      "note": "Top left Nano Banana Pro, top right MiniMax H3, bottom left GPT Image 2.6, bottom right Seedream 5.5; same prompt and reference image (per the author)."
+    },
     {
       "id": "aiwithkhan-542587",
       "title": "A light-status logic puzzle rendered as a dashboard: MiniMax H3 Image vs Seedream 5.5",
