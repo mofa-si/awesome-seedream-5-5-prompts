@@ -7,7 +7,7 @@
   "description": "A curated collection of ByteDance Seedream 5.5 images shared on X: portraits, film stills, sci-fi and product design, precise multi-turn edits, and same-prompt comparisons against GPT Image, Nano Banana, Midjourney and more. Every entry credits its creator and links the original post, with verbatim public prompts you can open on ChatImg in one click.",
   "descriptionZh": "收集 X 上的字节 Seedream 5.5 作品：人像、电影感剧照、科幻与产品设计、多轮精确改图，以及和 GPT Image、Nano Banana、Midjourney 等模型的同提示词对比。每条署名原作者、链接原帖，附创作者公开的原文提示词，可一键在 ChatImg 打开同款。",
   "model": "Seedream 5.5",
-  "collectedOn": "2026-11-22",
+  "collectedOn": "2026-11-23",
   "publicationCutoffUtc": "2026-11-09T00:00:00Z",
   "topics": [
     "seedream",
@@ -75,6 +75,127 @@
     }
   ],
   "entries": [
+    {
+      "id": "oyu-noi-377296",
+      "title": "A moody location reference: GPT Image 2.6 vs Seedream 5.5 vs Higgsfield cinematic location",
+      "titleZh": "氛围感场景参考图：GPT Image 2.6、Seedream 5.5、Higgsfield 电影感场景对比",
+      "category": "comparison",
+      "author": {
+        "name": "Oyu",
+        "handle": "Oyu_Noi",
+        "url": "https://x.com/Oyu_Noi"
+      },
+      "sourceUrl": "https://x.com/Oyu_Noi/status/2124639061063377296",
+      "publishedAt": "2026-11-22T23:00:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124639061063377296-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124639061063377296-1.webp"
+      ],
+      "note": "Top to bottom: GPT Image 2.6 Sunburst, Seedream 5.5, Higgsfield cinematic location; same prompt (per the author, translated from Japanese)."
+    },
+    {
+      "id": "openclipsai-141243",
+      "title": "A rainy Paris café with a sleeping cat: Seedream 5.5 vs GPT Image 2.6 vs Nano Banana Pro and more",
+      "titleZh": "雨天巴黎咖啡馆与睡猫：Seedream 5.5、GPT Image 2.6、Nano Banana Pro 等对比",
+      "category": "comparison",
+      "author": {
+        "name": "OpenClipsAI",
+        "handle": "openclipsai",
+        "url": "https://x.com/openclipsai"
+      },
+      "sourceUrl": "https://x.com/openclipsai/status/2124557401739141243",
+      "publishedAt": "2026-11-22T17:35:31Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124557401739141243-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124557401739141243-1.webp"
+      ]
+    },
+    {
+      "id": "heathergreen-260248",
+      "title": "A barn owl before a gothic castle under the full moon, stop-motion style",
+      "titleZh": "满月下哥特城堡前的仓鸮，定格动画风插画",
+      "category": "illustration",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "url": "https://x.com/heathergreen"
+      },
+      "sourceUrl": "https://x.com/heathergreen/status/2124488074713260248",
+      "publishedAt": "2026-11-22T13:00:02Z",
+      "prompt": "A detailed, high-fantasy digital stop-motion style illustration featuring a majestic barn owl with bright amber eyes perched on a mossy, gnarled tree branch in the foreground. The owl is the central focus, surrounded by a dark, atmospheric forest setting during autumn. The forest floor is dotted with glowing, bioluminescent mushrooms and scattered orange maple leaves. In the background, a mysterious, gothic-style castle looms under a large, luminous full moon in a misty, dark blue sky. To the left, a weathered tombstone with a skull carving stands near a wrought-iron fence and a glowing lantern, enhancing the eerie, magical, and autumnal mood of the scene. The lighting is moody and cinematic, with soft glows emanating from the mushrooms and the distant castle windows.",
+      "promptSourceUrl": "https://x.com/heathergreen/status/2124488074713260248",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124488074713260248-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124488074713260248-1.webp"
+      ],
+      "note": "Generated with Seedream 5.5 on Magnific (per the author)."
+    },
+    {
+      "id": "saniaspeaks-515093",
+      "title": "A boho-jacket street portrait: Kling Image 4.0 vs Seedream 5.5 vs MiniMax H3 Image vs GPT Image 2.6",
+      "titleZh": "波西米亚外套街拍人像：Kling Image 4.0、Seedream 5.5、MiniMax H3 Image、GPT Image 2.6 对比",
+      "category": "comparison",
+      "author": {
+        "name": "𝗦𝗮𝗻𝗶𝗮",
+        "handle": "saniaspeaks_",
+        "url": "https://x.com/saniaspeaks_"
+      },
+      "sourceUrl": "https://x.com/saniaspeaks_/status/2124486102765515093",
+      "publishedAt": "2026-11-22T12:52:12Z",
+      "prompt": "Create an ultra-photorealistic fashion portrait of a naturally beautiful young adult woman wearing an extravagant colorful vintage-inspired outfit.\n\nCharacter Appearance:\nA young East Asian woman with delicate natural facial features, warm fair skin, soft brown almond-shaped eyes, naturally defined eyebrows, subtle freckles, a small beauty mark near the lower cheek, and naturally glossy muted pink lips. Her hair is dark brown, short-to-medium length, messy layered shag haircut with soft wispy bangs, natural volume and numerous loose flyaway strands.\n\nHair Details:\nBeautifully messy, voluminous dark brown hair with individual strands illuminated by sunlight. Natural movement, imperfect texture and loose strands framing both sides of her face.\n\nOutfit:\nAn oversized, richly patterned vintage bohemian jacket featuring vibrant orange, red, turquoise, emerald green, pink and cream colors. Intricate decorative motifs, embroidered-looking patterns, traditional textile-inspired prints and layered fabrics. Underneath, a colorful patterned top with a beige crossbody bag strap running diagonally across her chest.\n\nAccessories:\nLarge statement ethnic-inspired dangling earrings featuring colorful beads, miniature decorative ornaments, tassels and intricate details.\n\nPose and Expression:\nMedium close-up portrait from the waist upward. Her body is slightly turned while her face looks directly toward the camera. A calm, naturally expressive gaze with slightly parted lips. Relaxed shoulders and effortless candid posture.\n\nEnvironment:\nAn outdoor urban setting with a softly blurred architectural background, natural greenery and subtle circular bokeh highlights. Background should remain unobtrusive and beautifully out of focus.\n\nLighting:\nBright natural daylight with beautiful backlighting illuminating her messy hair. Soft sunlight highlights across her face, realistic facial shadows, delicate light reflections and natural skin tones.\n\nPhotography Style:\nPremium editorial fashion photography, authentic 85mm DSLR portrait, shallow depth of field, cinematic natural light, realistic optical bokeh, subtle film grain, lifelike colors, documentary-style candid composition.\n\nImage Quality:\nUltra-photorealistic RAW DSLR photography, 8K ultra-high resolution, incredibly detailed skin pores, natural facial imperfections, individual eyelashes, realistic hair strands, intricate fabric patterns, detailed embroidery and authentic textile textures.\n\nNegative Instructions:\nNo plastic skin, no excessive beauty filters, no artificial smoothness, no CGI, no illustration, no anime, no distorted hands, no unnatural facial proportions, no text, no typography, no watermark.\n\nVertical 3:4 portrait composition.",
+      "promptSourceUrl": "https://x.com/saniaspeaks_/status/2124486102765515093",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124486102765515093-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124486102765515093-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124486102765515093-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124486102765515093-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124486102765515093-4.webp"
+      ]
+    },
+    {
+      "id": "daichi-tweetss-327268",
+      "title": "One-change edit: a coloured house added to a grey hill town",
+      "titleZh": "只改一处：灰色山城里加一栋彩色房子",
+      "category": "remix",
+      "author": {
+        "name": "Daichi",
+        "handle": "Daichi_Tweetss",
+        "url": "https://x.com/Daichi_Tweetss"
+      },
+      "sourceUrl": "https://x.com/Daichi_Tweetss/status/2124457369715327268",
+      "publishedAt": "2026-11-22T10:58:02Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124457369715327268-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124457369715327268-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124457369715327268-2.webp"
+      ],
+      "note": "Tip from the author: start the edit with \"Edit the reference image. Make one change only:\" and describe only the change; re-describing the whole picture returned almost the same image three times."
+    },
+    {
+      "id": "beikunkun22-548810",
+      "title": "A fox-eared girl in a meadow, made as a phone wallpaper",
+      "titleZh": "草地上的狐耳少女手机壁纸",
+      "category": "illustration",
+      "author": {
+        "name": "北冥饼鲲",
+        "handle": "BeiKunKun22",
+        "url": "https://x.com/BeiKunKun22"
+      },
+      "sourceUrl": "https://x.com/BeiKunKun22/status/2124416582038548810",
+      "publishedAt": "2026-11-22T08:15:57Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124416582038548810-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124416582038548810-1.webp"
+      ]
+    },
     {
       "id": "framezeroai-279997",
       "title": "A man in a subway tunnel holding a photograph of tomorrow",
