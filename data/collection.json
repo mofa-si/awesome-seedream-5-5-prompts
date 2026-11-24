@@ -7,7 +7,7 @@
   "description": "A curated collection of ByteDance Seedream 5.5 images shared on X: portraits, film stills, sci-fi and product design, precise multi-turn edits, and same-prompt comparisons against GPT Image, Nano Banana, Midjourney and more. Every entry credits its creator and links the original post, with verbatim public prompts you can open on ChatImg in one click.",
   "descriptionZh": "收集 X 上的字节 Seedream 5.5 作品：人像、电影感剧照、科幻与产品设计、多轮精确改图，以及和 GPT Image、Nano Banana、Midjourney 等模型的同提示词对比。每条署名原作者、链接原帖，附创作者公开的原文提示词，可一键在 ChatImg 打开同款。",
   "model": "Seedream 5.5",
-  "collectedOn": "2026-11-23",
+  "collectedOn": "2026-11-24",
   "publicationCutoffUtc": "2026-11-09T00:00:00Z",
   "topics": [
     "seedream",
@@ -75,6 +75,208 @@
     }
   ],
   "entries": [
+    {
+      "id": "daichi-tweetss-229924",
+      "title": "One instruction across seven image models for a 3D animated film look",
+      "titleZh": "同一指令在七个图像模型上的 3D 动画电影风对比",
+      "category": "comparison",
+      "author": {
+        "name": "Daichi",
+        "handle": "Daichi_Tweetss",
+        "url": "https://x.com/Daichi_Tweetss"
+      },
+      "sourceUrl": "https://x.com/Daichi_Tweetss/status/2125007997617229924",
+      "publishedAt": "2026-11-23T23:26:02Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125007997617229924-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125007997617229924-1.webp"
+      ]
+    },
+    {
+      "id": "justinechoes-391180",
+      "title": "An image-to-image fox girl in a flower field: Seedream 5.5 vs GPT Image 2.6",
+      "titleZh": "花田里的狐耳少女（图生图）：Seedream 5.5 对比 GPT Image 2.6",
+      "category": "comparison",
+      "author": {
+        "name": "JustInEchoes",
+        "handle": "JustInEchoes",
+        "url": "https://x.com/JustInEchoes"
+      },
+      "sourceUrl": "https://x.com/JustInEchoes/status/2125000934795391180",
+      "publishedAt": "2026-11-23T22:57:58Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125000934795391180-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125000934795391180-1.webp"
+      ]
+    },
+    {
+      "id": "kakiponzux-270106",
+      "title": "Danbooru tags vs natural language prompts: Seedream 5.5 vs Grok Imagine",
+      "titleZh": "Danbooru 标签 vs 自然语言提示词：Seedream 5.5 对比 Grok Imagine",
+      "category": "comparison",
+      "author": {
+        "name": "Kakiponzu AI Lab",
+        "handle": "KakiponzuX",
+        "url": "https://x.com/KakiponzuX"
+      },
+      "sourceUrl": "https://x.com/KakiponzuX/status/2124986355407270106",
+      "publishedAt": "2026-11-23T22:00:02Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124986355407270106-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124986355407270106-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124986355407270106-2.webp"
+      ],
+      "note": "The author scored element recall across 24 images; same element list and scenes, only the prompt grammar changed."
+    },
+    {
+      "id": "pixeldojoai-698631",
+      "title": "An alpaca in a knitted flower beanie",
+      "titleZh": "戴针织花朵帽的羊驼",
+      "category": "illustration",
+      "author": {
+        "name": "PixelDojo",
+        "handle": "PixelDojoAI",
+        "url": "https://x.com/PixelDojoAI"
+      },
+      "sourceUrl": "https://x.com/PixelDojoAI/status/2124957739495698631",
+      "publishedAt": "2026-11-23T20:06:19Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124957739495698631-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124957739495698631-1.webp"
+      ],
+      "note": "Made on Pixel Dojo for the \"alpaca challenge\" (per the author)."
+    },
+    {
+      "id": "rickdt-737743",
+      "title": "A couple under an umbrella on a rainy neon street at night",
+      "titleZh": "雨夜霓虹街头撑伞的情侣",
+      "category": "scenes",
+      "author": {
+        "name": "Rick Terrill",
+        "handle": "RickDT",
+        "url": "https://x.com/RickDT"
+      },
+      "sourceUrl": "https://x.com/RickDT/status/2124915140067737743",
+      "publishedAt": "2026-11-23T17:17:03Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124915140067737743-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124915140067737743-1.webp"
+      ]
+    },
+    {
+      "id": "shirawiggles-070277",
+      "title": "A fairytale poster for an automotive campaign",
+      "titleZh": "汽车广告的童话风海报",
+      "category": "poster",
+      "author": {
+        "name": "Shira Wiggles",
+        "handle": "shirawiggles",
+        "url": "https://x.com/shirawiggles"
+      },
+      "sourceUrl": "https://x.com/shirawiggles/status/2124899852614070277",
+      "publishedAt": "2026-11-23T16:16:18Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124899852614070277-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124899852614070277-1.webp"
+      ],
+      "note": "Made in Akool with Seedream 5.5 (per the author)."
+    },
+    {
+      "id": "pixeldojoai-958055",
+      "title": "A vintage Thanksgiving table styled like an old magazine cover",
+      "titleZh": "复古杂志封面风的感恩节餐桌",
+      "category": "poster",
+      "author": {
+        "name": "PixelDojo",
+        "handle": "PixelDojoAI",
+        "url": "https://x.com/PixelDojoAI"
+      },
+      "sourceUrl": "https://x.com/PixelDojoAI/status/2124894336378958055",
+      "publishedAt": "2026-11-23T15:54:23Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124894336378958055-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124894336378958055-1.webp"
+      ],
+      "note": "Made on Pixel Dojo (per the author)."
+    },
+    {
+      "id": "amynys-977731",
+      "title": "A woman in a walk-in wardrobe: Seedream 5.5 vs Kling 4.0",
+      "titleZh": "步入式衣帽间里的女子：Seedream 5.5 对比 Kling 4.0",
+      "category": "comparison",
+      "author": {
+        "name": "Amy G",
+        "handle": "amynys",
+        "url": "https://x.com/amynys"
+      },
+      "sourceUrl": "https://x.com/amynys/status/2124880661848977731",
+      "publishedAt": "2026-11-23T15:00:02Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124880661848977731-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124880661848977731-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124880661848977731-2.webp"
+      ],
+      "note": "Made on OpenArt (per the author)."
+    },
+    {
+      "id": "ojigombadavid-821979",
+      "title": "A pencil sketch turned into a knight on a throne, using a reference image",
+      "titleZh": "把铅笔草图变成王座上的骑士（参考图改图）",
+      "category": "remix",
+      "author": {
+        "name": "David'the'Creator",
+        "handle": "ojigombadavid",
+        "url": "https://x.com/ojigombadavid"
+      },
+      "sourceUrl": "https://x.com/ojigombadavid/status/2124813493144821979",
+      "publishedAt": "2026-11-23T10:33:08Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124813493144821979-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124813493144821979-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124813493144821979-2.webp"
+      ]
+    },
+    {
+      "id": "minthiyadesign-350176",
+      "title": "Loy Krathong festival illustrations: a child, a lantern-lit river, a spirit fish and a water goddess",
+      "titleZh": "水灯节插画：孩童、灯火河面、精灵鱼与水中女神",
+      "category": "illustration",
+      "author": {
+        "name": "AIAIM",
+        "handle": "MinthiyaDesign",
+        "url": "https://x.com/MinthiyaDesign"
+      },
+      "sourceUrl": "https://x.com/MinthiyaDesign/status/2124812539624350176",
+      "publishedAt": "2026-11-23T10:29:21Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124812539624350176-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124812539624350176-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124812539624350176-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124812539624350176-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2124812539624350176-4.webp"
+      ],
+      "note": "Made with Midjourney 8.2, GPT Image 2.6 and Seedream 5.5 together (per the author)."
+    },
     {
       "id": "oyu-noi-377296",
       "title": "A moody location reference: GPT Image 2.6 vs Seedream 5.5 vs Higgsfield cinematic location",
