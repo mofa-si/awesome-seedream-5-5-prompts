@@ -7,7 +7,7 @@
   "description": "A curated collection of ByteDance Seedream 5.5 images shared on X: portraits, film stills, sci-fi and product design, precise multi-turn edits, and same-prompt comparisons against GPT Image, Nano Banana, Midjourney and more. Every entry credits its creator and links the original post, with verbatim public prompts you can open on ChatImg in one click.",
   "descriptionZh": "收集 X 上的字节 Seedream 5.5 作品：人像、电影感剧照、科幻与产品设计、多轮精确改图，以及和 GPT Image、Nano Banana、Midjourney 等模型的同提示词对比。每条署名原作者、链接原帖，附创作者公开的原文提示词，可一键在 ChatImg 打开同款。",
   "model": "Seedream 5.5",
-  "collectedOn": "2026-11-24",
+  "collectedOn": "2026-11-25",
   "publicationCutoffUtc": "2026-11-09T00:00:00Z",
   "topics": [
     "seedream",
@@ -75,6 +75,130 @@
     }
   ],
   "entries": [
+    {
+      "id": "pixeldojoai-069207",
+      "title": "A tidal creek with red mud banks at low tide",
+      "titleZh": "退潮时红泥岸边的潮汐小溪",
+      "category": "scenes",
+      "author": {
+        "name": "PixelDojo",
+        "handle": "PixelDojoAI",
+        "url": "https://x.com/PixelDojoAI"
+      },
+      "sourceUrl": "https://x.com/PixelDojoAI/status/2125377542010069207",
+      "publishedAt": "2026-11-24T23:54:28Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125377542010069207-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125377542010069207-1.webp"
+      ],
+      "note": "Made on Pixel Dojo (per the author)."
+    },
+    {
+      "id": "flyaigh-976836",
+      "title": "Camera angle words vs camera position: five scenes, two prompt versions each",
+      "titleZh": "写机位词 vs 写相机位置：五个场景、每个两版提示词",
+      "category": "comparison",
+      "author": {
+        "name": "FlyAIgh",
+        "handle": "FlyAIgh",
+        "url": "https://x.com/FlyAIgh"
+      },
+      "sourceUrl": "https://x.com/FlyAIgh/status/2125341188349976836",
+      "publishedAt": "2026-11-24T21:30:00Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125341188349976836-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125341188349976836-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125341188349976836-2.webp"
+      ],
+      "note": "The author found that describing where the camera sits moved the shot, while words like \"low-angle\" barely did."
+    },
+    {
+      "id": "pixeldojoai-154296",
+      "title": "A lantern-lit town living inside a tumbleweed in the desert night",
+      "titleZh": "沙漠夜色里，一座住在风滚草里的灯火小镇",
+      "category": "scenes",
+      "author": {
+        "name": "PixelDojo",
+        "handle": "PixelDojoAI",
+        "url": "https://x.com/PixelDojoAI"
+      },
+      "sourceUrl": "https://x.com/PixelDojoAI/status/2125319579132154296",
+      "publishedAt": "2026-11-24T20:04:08Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125319579132154296-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125319579132154296-1.webp"
+      ],
+      "note": "Made on Pixel Dojo (per the author)."
+    },
+    {
+      "id": "framezeroai-285514",
+      "title": "An orc warrior character sheet",
+      "titleZh": "兽人战士角色设定图",
+      "category": "illustration",
+      "author": {
+        "name": "Frame Zero 🎬 | AI Films",
+        "handle": "FramezeroAI",
+        "url": "https://x.com/FramezeroAI"
+      },
+      "sourceUrl": "https://x.com/FramezeroAI/status/2125232463832285514",
+      "publishedAt": "2026-11-24T14:17:58Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125232463832285514-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125232463832285514-1.webp"
+      ],
+      "note": "Made with Seedream 5.5 on Renoise through Claude MCP (per the author)."
+    },
+    {
+      "id": "ojigombadavid-203040",
+      "title": "Four character pieces: a weary knight, a forest spirit, a crew and a warrior",
+      "titleZh": "四张角色作品：疲惫的骑士、森林之灵、一支小队和一名战士",
+      "category": "illustration",
+      "author": {
+        "name": "David'the'Creator",
+        "handle": "ojigombadavid",
+        "url": "https://x.com/ojigombadavid"
+      },
+      "sourceUrl": "https://x.com/ojigombadavid/status/2125206041575203040",
+      "publishedAt": "2026-11-24T12:32:59Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125206041575203040-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125206041575203040-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125206041575203040-2.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125206041575203040-3.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125206041575203040-4.webp"
+      ],
+      "note": "Made with Seedream 5.5 on ElevenLabs (per the author)."
+    },
+    {
+      "id": "mayorkingai-121239",
+      "title": "A young archer, the lead character of a short film",
+      "titleZh": "短片女主角：年轻的弓箭手",
+      "category": "illustration",
+      "author": {
+        "name": "MayorkingAI",
+        "handle": "MayorKingAI",
+        "url": "https://x.com/MayorKingAI"
+      },
+      "sourceUrl": "https://x.com/MayorKingAI/status/2125204360309121239",
+      "publishedAt": "2026-11-24T12:26:18Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125204360309121239-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125204360309121239-1.webp"
+      ],
+      "note": "Started in Midjourney, then refined with Seedream 5.5 on Magnific (per the author)."
+    },
     {
       "id": "daichi-tweetss-229924",
       "title": "One instruction across seven image models for a 3D animated film look",

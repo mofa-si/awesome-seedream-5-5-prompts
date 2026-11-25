@@ -1,0 +1,22 @@
+# An orc warrior character sheet
+
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125232463832285514-card.webp)](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=framezeroai-285514#illustration)
+
+**[▶ Try Seedream 5.5 on ChatImg](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=framezeroai-285514#illustration)** · [Source post](https://x.com/FramezeroAI/status/2125232463832285514)
+
+- Author / credit: Frame Zero 🎬 | AI Films (@FramezeroAI)
+- Prompt status: `not_published_in_reviewed_sources`
+
+> Made with Seedream 5.5 on Renoise through Claude MCP (per the author).
+
+## Prompt
+
+The creator did not publish an exact prompt in the sources reviewed for this entry.
+
+## Sources & attribution
+
+- [Frame Zero 🎬 | AI Films](https://x.com/FramezeroAI) — [source post](https://x.com/FramezeroAI/status/2125232463832285514)
+
+Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
+
+[More Seedream 5.5 work on ChatImg →](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts)
