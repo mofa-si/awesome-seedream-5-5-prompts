@@ -1,0 +1,26 @@
+# A CCD-style travel snapshot on an old European cobblestone street
+
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125579631390826617-card.webp)](https://chatimg.ai/prompts/seedream-5-5/kriaszone-826617?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=kriaszone-826617)
+
+**[▶ Use this prompt on ChatImg](https://chatimg.ai/image?model=seedream-5.5&q=A+vintage-style+CCD+street+photograph%2C+captured+in+a+3%3A4+vertical+format.+A+woman+walks+naturally+along+a+cobblestone+street+in+an+old+European+town%3B+her+gait+is+relaxed+and+casual%2C+with+her+body+turned+slightly+toward+the+camera%E2%80%94as+if+captured+spontaneously+by+a+travel+companion.+She+might+also+be+glancing+back+while+in+motion%2C+appearing+completely+at+ease+rather+than+posed.+She+wears+simple%2C+comfortable+travel+attire%E2%80%94such+as+a+lightweight+jacket%2C+a+plain+top%2C+and+well-fitted+trousers%E2%80%94complemented+by+a+practical+small+bag%2C+creating+an+understated%2C+natural+look.+The+subject+is+framed+in+a+medium-to-long+shot%2C+encompassing+her+full+figure%3B+the+composition+suggests+a+candid%2C+%22point-and-shoot%22+aesthetic%2C+with+the+subject+not+necessarily+centered.+The+cobblestone+path+in+the+foreground+draws+the+eye+into+the+distance%2C+flanked+by+architectural+details+typical+of+old+European+towns%3A+light-colored+stone+or+stucco+facades%2C+arched+doorways+and+windows%2C+wooden+frames%2C+wrought-iron+balconies%2C+and+storefronts.+The+perspective+offers+clear+depth%2C+without+identifying+any+specific+city+or+landmark.+Soft%2C+natural+evening+light+bathes+the+street+and+buildings%2C+enhanced+by+the+subtle+use+of+an+on-camera+CCD+flash%3B+this+results+in+natural+exposure+on+the+subject%E2%80%99s+face+and+clothing%2C+with+soft+shadows+and+a+faint%2C+ethereal+glow+around+highlights.+The+image+captures+the+distinct+texture+of+early+digital+CCD+cameras%3A+a+slight+dreaminess%2C+soft+highlights%2C+a+fine%2C+subtle+grain%2C+and+a+warm%2C+gently+faded+color+palette+with+restrained+tonal+shifts%E2%80%94all+while+maintaining+clear+definition+in+the+subject%E2%80%99s+silhouette%2C+clothing%2C+and+architectural+textures.+The+overall+atmosphere+is+that+of+an+authentic+travel+snapshot%E2%80%94vintage+yet+clean%2C+relaxed%2C+and+possessing+a+subtle+cinematic+quality.+The+image+should+be+free+from+severe+out-of-focus+blur%2C+excessive+haziness%2C+artificial+wear+%28such+as+dirt%2C+scratches%2C+or+damage%29%2C+exaggerated+filters%2C+overly+saturated+colors%2C+staged+posing%2C+or+text+watermarks.&utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts&utm_content=kriaszone-826617)** · [Source post](https://x.com/kriaszone/status/2125579631390826617)
+
+- Author / credit: Krias (@kriaszone)
+- Prompt status: `verbatim`
+
+> Prompt posted in the author's own reply.
+
+## Prompt
+
+```text
+A vintage-style CCD street photograph, captured in a 3:4 vertical format. A woman walks naturally along a cobblestone street in an old European town; her gait is relaxed and casual, with her body turned slightly toward the camera—as if captured spontaneously by a travel companion. She might also be glancing back while in motion, appearing completely at ease rather than posed. She wears simple, comfortable travel attire—such as a lightweight jacket, a plain top, and well-fitted trousers—complemented by a practical small bag, creating an understated, natural look. The subject is framed in a medium-to-long shot, encompassing her full figure; the composition suggests a candid, "point-and-shoot" aesthetic, with the subject not necessarily centered. The cobblestone path in the foreground draws the eye into the distance, flanked by architectural details typical of old European towns: light-colored stone or stucco facades, arched doorways and windows, wooden frames, wrought-iron balconies, and storefronts. The perspective offers clear depth, without identifying any specific city or landmark. Soft, natural evening light bathes the street and buildings, enhanced by the subtle use of an on-camera CCD flash; this results in natural exposure on the subject’s face and clothing, with soft shadows and a faint, ethereal glow around highlights. The image captures the distinct texture of early digital CCD cameras: a slight dreaminess, soft highlights, a fine, subtle grain, and a warm, gently faded color palette with restrained tonal shifts—all while maintaining clear definition in the subject’s silhouette, clothing, and architectural textures. The overall atmosphere is that of an authentic travel snapshot—vintage yet clean, relaxed, and possessing a subtle cinematic quality. The image should be free from severe out-of-focus blur, excessive haziness, artificial wear (such as dirt, scratches, or damage), exaggerated filters, overly saturated colors, staged posing, or text watermarks.
+```
+
+Prompt source: https://x.com/kriaszone/status/2125579634129740193
+
+## Sources & attribution
+
+- [Krias](https://x.com/kriaszone) — [source post](https://x.com/kriaszone/status/2125579631390826617)
+
+Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
+
+[More Seedream 5.5 work on ChatImg →](https://chatimg.ai/prompts/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedream-5-5-prompts)

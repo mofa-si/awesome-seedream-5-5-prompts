@@ -7,7 +7,7 @@
   "description": "A curated collection of ByteDance Seedream 5.5 images shared on X: portraits, film stills, sci-fi and product design, precise multi-turn edits, and same-prompt comparisons against GPT Image, Nano Banana, Midjourney and more. Every entry credits its creator and links the original post, with verbatim public prompts you can open on ChatImg in one click.",
   "descriptionZh": "收集 X 上的字节 Seedream 5.5 作品：人像、电影感剧照、科幻与产品设计、多轮精确改图，以及和 GPT Image、Nano Banana、Midjourney 等模型的同提示词对比。每条署名原作者、链接原帖，附创作者公开的原文提示词，可一键在 ChatImg 打开同款。",
   "model": "Seedream 5.5",
-  "collectedOn": "2026-11-25",
+  "collectedOn": "2026-11-26",
   "publicationCutoffUtc": "2026-11-09T00:00:00Z",
   "topics": [
     "seedream",
@@ -75,6 +75,106 @@
     }
   ],
   "entries": [
+    {
+      "id": "daichi-tweetss-744120",
+      "title": "A walled town split between grey streets and a world of colour",
+      "titleZh": "高墙隔开的灰色小镇与彩色街区",
+      "category": "scenes",
+      "author": {
+        "name": "Daichi",
+        "handle": "Daichi_Tweetss",
+        "url": "https://x.com/Daichi_Tweetss"
+      },
+      "sourceUrl": "https://x.com/Daichi_Tweetss/status/2125732016280744120",
+      "publishedAt": "2026-11-25T23:23:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125732016280744120-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125732016280744120-1.webp"
+      ],
+      "note": "Translated from Japanese: a concept frame made to show first-time viewers a town where colour is bought with money."
+    },
+    {
+      "id": "harboriis-796771",
+      "title": "A 1990s film snapshot of a woman hugging her sleepy tabby cat",
+      "titleZh": "90 年代胶片感：抱着困倦虎斑猫的女孩",
+      "category": "portrait",
+      "author": {
+        "name": "Harboris",
+        "handle": "harboriis",
+        "url": "https://x.com/harboriis"
+      },
+      "sourceUrl": "https://x.com/harboriis/status/2125602367051796771",
+      "publishedAt": "2026-11-25T14:47:50Z",
+      "prompt": "Create an ultra-realistic candid vintage film photograph, vertical 9:16 composition.\n\nA beautiful young woman with a short, naturally messy dark brown bob haircut, soft bangs, fair skin, delicate facial features, and a warm genuine smile is sitting comfortably on a vintage brown leather sofa in a cozy living room.\n\nShe is wearing an oversized olive-green chunky knitted turtleneck sweater with long sleeves. She is gently holding a fluffy brown tabby cat in her lap with both arms. The cat is relaxed and looking directly toward the camera with a slightly sleepy expression.\n\nThe woman has her eyes gently closed and is smiling naturally, showing her teeth. Her posture is relaxed and comfortable, creating a genuine heartwarming moment between her and her cat.\n\nThe room has a lived-in vintage atmosphere. A warm glowing table lamp sits on a wooden side table in the background. Behind her are wooden cabinets, houseplants, books, and soft household details. Another person is faintly visible sitting in the background, out of focus.\n\nIn the foreground, a wooden coffee table holds a partially visible aluminum drink can, a transparent glass, and vintage magazines.\n\nPhotography style: authentic 35mm analog film photography, nostalgic 1990s home photography, warm amber tones, soft tungsten lighting, natural film grain, slightly faded colors, gentle atmospheric haze, realistic skin texture, imperfect candid framing, shallow depth of field.\n\nCamera: medium portrait shot, eye-level perspective, natural indoor snapshot, soft direct flash mixed with warm lamp lighting.\n\nThe overall feeling should be cozy, intimate, spontaneous, nostalgic, and genuinely heartwarming.\n\nExtremely photorealistic, no CGI, no illustration, no artificial posing.",
+      "promptSourceUrl": "https://x.com/harboriis/status/2125602367051796771",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125602367051796771-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125602367051796771-1.webp",
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125602367051796771-2.webp"
+      ]
+    },
+    {
+      "id": "kriaszone-826617",
+      "title": "A CCD-style travel snapshot on an old European cobblestone street",
+      "titleZh": "CCD 质感：欧洲老城石板路上的旅行抓拍",
+      "category": "portrait",
+      "author": {
+        "name": "Krias",
+        "handle": "kriaszone",
+        "url": "https://x.com/kriaszone"
+      },
+      "sourceUrl": "https://x.com/kriaszone/status/2125579631390826617",
+      "publishedAt": "2026-11-25T13:17:30Z",
+      "prompt": "A vintage-style CCD street photograph, captured in a 3:4 vertical format. A woman walks naturally along a cobblestone street in an old European town; her gait is relaxed and casual, with her body turned slightly toward the camera—as if captured spontaneously by a travel companion. She might also be glancing back while in motion, appearing completely at ease rather than posed. She wears simple, comfortable travel attire—such as a lightweight jacket, a plain top, and well-fitted trousers—complemented by a practical small bag, creating an understated, natural look. The subject is framed in a medium-to-long shot, encompassing her full figure; the composition suggests a candid, \"point-and-shoot\" aesthetic, with the subject not necessarily centered. The cobblestone path in the foreground draws the eye into the distance, flanked by architectural details typical of old European towns: light-colored stone or stucco facades, arched doorways and windows, wooden frames, wrought-iron balconies, and storefronts. The perspective offers clear depth, without identifying any specific city or landmark. Soft, natural evening light bathes the street and buildings, enhanced by the subtle use of an on-camera CCD flash; this results in natural exposure on the subject’s face and clothing, with soft shadows and a faint, ethereal glow around highlights. The image captures the distinct texture of early digital CCD cameras: a slight dreaminess, soft highlights, a fine, subtle grain, and a warm, gently faded color palette with restrained tonal shifts—all while maintaining clear definition in the subject’s silhouette, clothing, and architectural textures. The overall atmosphere is that of an authentic travel snapshot—vintage yet clean, relaxed, and possessing a subtle cinematic quality. The image should be free from severe out-of-focus blur, excessive haziness, artificial wear (such as dirt, scratches, or damage), exaggerated filters, overly saturated colors, staged posing, or text watermarks.",
+      "promptSourceUrl": "https://x.com/kriaszone/status/2125579634129740193",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125579631390826617-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125579631390826617-1.webp"
+      ],
+      "note": "Prompt posted in the author's own reply."
+    },
+    {
+      "id": "heathergreen-226095",
+      "title": "A capybara rowing through a glowing mushroom cave with a lantern",
+      "titleZh": "提灯划船穿过发光蘑菇洞的水豚",
+      "category": "illustration",
+      "author": {
+        "name": "Heather Green",
+        "handle": "heathergreen",
+        "url": "https://x.com/heathergreen"
+      },
+      "sourceUrl": "https://x.com/heathergreen/status/2125575233457226095",
+      "publishedAt": "2026-11-25T13:00:01Z",
+      "prompt": "A whimsical, high-detail fantasy illustration featuring a cute, anthropomorphic capybara-like creature, wearing a pink and orange striped scarf. The creature is sitting in a small, rustic wooden boat, paddling through a glowing subterranean cavern. It holds a wooden staff with a warm, golden, heart-shaped lantern hanging from the tip, casting a soft light on its face. The surrounding environment is a magical cave filled with bioluminescent pink mushrooms, sparkling water, and distant waterfalls. The lighting contrast is striking, with the warm golden glow of the lantern illuminating the creature against the cool, ethereal pink tones of the cave's magical atmosphere. The water surface shows ripples and reflections of the glowing elements.",
+      "promptSourceUrl": "https://x.com/heathergreen/status/2125575233457226095",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125575233457226095-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125575233457226095-1.webp"
+      ],
+      "note": "Generated on Magnific (per the author)."
+    },
+    {
+      "id": "kriaszone-915492",
+      "title": "A straw-hat traveller resting under a seaside tree",
+      "titleZh": "海边树荫下歇脚的草帽旅人",
+      "category": "portrait",
+      "author": {
+        "name": "Krias",
+        "handle": "kriaszone",
+        "url": "https://x.com/kriaszone"
+      },
+      "sourceUrl": "https://x.com/kriaszone/status/2125571798112915492",
+      "publishedAt": "2026-11-25T12:46:22Z",
+      "prompt": "An authentic, natural-looking travel photograph taken on an island. A woman rests in the shade by the seaside, leaning casually against the trunk of a sturdy tree. One hand lightly touches the brim of her straw hat, which is stirred ever so slightly by the sea breeze; her posture is relaxed and at ease—the kind of moment captured spontaneously during a journey. The shot is framed from the side or back, avoiding a focus on facial features and leaving age, ethnicity, or specific identity ambiguous. The subject and the tree trunk are positioned in the mid-ground, with the canopy and tropical foliage above casting a soft, dappled shade. In the foreground, a clean, light-colored sandy beach with sparse natural vegetation is visible, while the calm sea and a clear horizon stretch out in the distance, creating an open, well-layered environment. The 3:4 vertical composition establishes a natural balance between the subject, the tree, and the island seascape, while maintaining ample surrounding space. Shot from roughly eye level, the medium-to-long-range framing ensures the island setting remains clearly discernible. Soft, natural daylight filters through the leaves, creating a delicate, dappled play of light and shadow; the subject rests in a bright, comfortable patch of shade, with skin tones and environmental exposure rendered naturally—neither overexposed nor overly dramatic. The color palette is fresh and harmonious, dominated by the soft blue-greens of the sea, the warm, light tones of the sand, and the natural green of the foliage, with the straw hat revealing its authentic woven texture. The overall atmosphere is one of relaxation, tranquility, and pleasant vacation vibes. It possesses the quality of a genuine travel snapshot—natural in its details and relaxed in its composition—free from excessive retouching, exaggerated filters, intense saturation, or the staged, artificial feel of a studio photoshoot.",
+      "promptSourceUrl": "https://x.com/kriaszone/status/2125571850608803980",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125571798112915492-card.webp",
+      "images": [
+        "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2125571798112915492-1.webp"
+      ],
+      "note": "Prompt posted in the author's own reply."
+    },
     {
       "id": "pixeldojoai-069207",
       "title": "A tidal creek with red mud banks at low tide",
@@ -1180,6 +1280,13 @@
       "images": [
         "https://bibigpt-apps.chatvid.ai/awesome/seedream-5-5/2119754081816420841-1.webp"
       ]
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-11-26",
+      "en": "+5 entries (57 total)",
+      "zh": "+5 条，共 57 条"
     }
   ]
 }
